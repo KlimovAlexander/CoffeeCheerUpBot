@@ -18,10 +18,12 @@ body {
 
 .img {
 	width: 130px;
+    position: center;
 }
 
 .item {
 	text-align: center;
+    position: center;
 }
 
 .btn {
@@ -33,6 +35,7 @@ body {
 	color: #fff;
 	text-transform: uppercase;
 	font-weight: 700;
+    position: center;
 
 	transition: background .2s linear;
 }
